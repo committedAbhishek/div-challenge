@@ -6,7 +6,8 @@
     height: 200px;    
 }
 .yellow {
-    border: 20px solid black;
+    border: solid black;
+    border-width: 20px 10px;
     width: 200px;
     height: 200px;
     margin-left: 260px;
